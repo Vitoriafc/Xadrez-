@@ -1,6 +1,6 @@
-# Desafio de Xadrez - Desenvolvimento em C
+# Desafio de Xadrez
 
-Este projeto é a implementação do desafio de Xadrez da MateCheck, usando a linguagem C. O objetivo é simular a movimentação de diferentes peças de xadrez, aplicando estruturas de repetição e funções recursivas.
+Este projeto de Xadrez simula o jogo em três níveis de dificuldade usando a linguagem C, estruturas de repetição e funções recursivas.
 
 ---
 
@@ -28,4 +28,5 @@ O desafio final eleva a complexidade. As movimentações da Torre e da Rainha s�
 4.  Execute o programa compilado:
     ```bash
     .\xadrez.exe
+
     ```
